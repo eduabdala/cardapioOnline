@@ -1,0 +1,23 @@
+#container{
+    background-color: lightgray;
+    width: 100%;
+    height: 100px;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    margin: 0 auto;
+}
+
+h1{
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    margin: 0 auto;
+}
