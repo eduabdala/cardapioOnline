@@ -1,0 +1,16 @@
+.cabecalho_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: fixed;
+}
+
+.pesquisa_cabecalho{
+    display: none;
+}
+
+@media (min-width: 834px){
+    .pesquisa_cabecalho{
+        display: block;
+    }
+}
